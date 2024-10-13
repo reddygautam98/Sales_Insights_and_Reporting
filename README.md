@@ -22,6 +22,8 @@ The **Sales Insights and Reporting** project delivers advanced business intellig
 ## 📂 Data Overview
 
 The dataset is stored in `Sales_Insights_and_Reporting.xlsx` and contains the following sheets:
+![Screenshot 2024-10-13 220914](https://github.com/user-attachments/assets/d36da9ad-9bd5-4fb7-9ee7-384afd9802e0)
+
 
 ### 1. 📜 Data
 - **Fields**:
